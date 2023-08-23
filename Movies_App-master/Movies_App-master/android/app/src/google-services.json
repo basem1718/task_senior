@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "554625137146",
+    "project_id": "movis-e5e7a",
+    "storage_bucket": "movis-e5e7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554625137146:android:52d7fa4a53fe4825e0cc43",
+        "android_client_info": {
+          "package_name": "com.example.movies_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554625137146-6ciki5sekk0nk2il04rqgcmppbp8f8bk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO1_LzwMSWHFUJ3Qr8ZCDZyQAmuiJbwd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554625137146-6ciki5sekk0nk2il04rqgcmppbp8f8bk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
